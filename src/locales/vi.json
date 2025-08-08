@@ -1,0 +1,92 @@
+{
+    "language": {
+        "vietnam": "Tiếng Việt",
+        "english": "Tiếng Anh"
+    },
+    "banner": {
+        "title": "Trò chơi sắp ra mắt",
+        "subtitle": "Chúng tôi sẽ trở lại với một điều tuyệt vời. Để nhận các bản cập nhật mới nhất về trò chơi, vui lòng đăng ký nhận bản tin của chúng tôi.",
+        "email": "Địa chỉ email của bạn",
+        "days": "ngày",
+        "hours": "giờ",
+        "minutes": "phút",
+        "seconds": "giây"
+    },
+    "header": {
+        "about": "Về chúng tôi",
+        "games": "Trò chơi",
+        "partners": "Đối tác",
+        "contact": "Liên hệ"
+    },
+    "about": {
+        "title": "Về chúng tôi",
+        "subtitle": "Duyệt qua tuyển chọn các trò chơi trực tuyến miễn phí của chúng tôi và có một khoảng thời gian tuyệt vời mà không cần rời khỏi trang web! Tùy chọn Trò chơi dành cho Trẻ em của chúng tôi cũng bao gồm các bài đánh giá trò chơi, các trò chơi gian lận và hướng dẫn mở rộng, và nhiều hơn nữa. Chúng tôi cũng có các bản tải xuống, video và bài báo miễn phí độc quyền. Etech đánh giá các trò chơi trẻ em phổ biến nhất từ tất cả các nền tảng trò chơi điện tử phổ biến nhất, vì vậy bạn không cần phải tìm kiếm niềm vui ở bất kỳ nơi nào khác trên Internet. Khám phá một thế giới trò chơi hoàn toàn mới trên Etech.",
+        "users": "Người chơi",
+        "games": "Trò chơi",
+        "feature1": {
+            "title": "Truy Cập 24/7",
+            "subtitle": "Đảm bảo hoạt động kinh doanh của các nhà khai thác hoạt động trơn tru suốt cả năm. "
+        },
+        "feature2": {
+            "title": "Thiết Kế",
+            "subtitle": "Kết hợp các vũ trụ giàu trí tưởng tượng, động lực chơi và lối chơi chưa từng có, trò chơi của chúng tôi vượt qua ranh giới của thế giới ảo bằng cách tạo ra lối chơi sáng tạo."
+        },
+        "feature3": {
+            "title": "Đội Ngũ",
+            "subtitle": "Etech là một studio quốc tế, từng đoạt giải thưởng gồm các nhà thiết kế, nghệ sĩ, họa sĩ hoạt hình và nhà sản xuất chuyên tạo ra nội dung cho những tên tuổi lớn nhất trong lĩnh vực điện ảnh và trò chơi điện tử."
+        }
+    },
+    "games": {
+        "title": "Trò chơi",
+        "subtitle": "Là nhà tiên phong trong lĩnh vực trò chơi ứng dụng dành cho thiết bị di động, chúng tôi tự hào về tính độc đáo và cá tính, cung cấp cho người chơi toàn cầu những trò chơi hiện đại có cốt truyện tuyệt vời, hiệu ứng âm thanh giật gân và hoạt ảnh hoành tráng không ngừng gây ấn tượng.",
+        "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "game1": {
+            "title": "E-Space"
+        },
+        "game2": {
+            "title": "Kingland"
+        },
+        "game3": {
+            "title": "The Last game"
+        },
+        "game4": {
+            "title": "G-Dragon"
+        },
+        "game5": {
+            "title": "Pirates"
+        },
+        "game6": {
+            "title": "Witch Party"
+        },
+        "game7": {
+            "title": "Rocky"
+        },
+        "game8": {
+            "title": "Blue Fire"
+        },
+        "game9": {
+            "title": "Magic tree"
+        },
+        "game10": {
+            "title": "Aborigines"
+        },
+        "game11": {
+            "title": "Cinderella"
+        },
+        "game12": {
+            "title": "Egypt Game"
+        }
+    },
+    "partner": {
+        "title": "Đối tác"
+    },
+    "footer": {
+        "address": "Địa chỉ",
+        "location1": "Valletta Buildings, South Street, Valletta - VLT 1103 Malta, Mỹ",
+        "location2": "Số 20 đường Phan Đăng Lưu, quận Hải Châu, thành phố Đà Nẵng, Việt Nam",
+        "or": "hoặc",
+        "subcribe": "Theo dõi",
+        "des": "Đăng ký nhận bản tin của chúng tôi và là người đầu tiên biết về các cập nhật của chúng tôi",
+        "copy": "2017 Bản quyền. Chính sách."
+    }
+}

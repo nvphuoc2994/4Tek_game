@@ -1,1 +1,28 @@
 @import "tailwindcss";
+
+@utility container {
+    margin-inline: auto;
+    padding-inline: 80px;
+    max-width: 1920px;
+    @media (max-width: 1280px) {
+        padding-inline: 16px;
+    }
+}
+
+@theme {
+    --font-playfair: Playfair Display, serif;
+    --font-montserrat: Montserrat, sans-serif;
+}
+
+html {
+    font-family: var(--font-montserrat);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--font-playfair);
+}

@@ -1,0 +1,92 @@
+{
+    "language": {
+        "vietnam": "Vietnamese",
+        "english": "English"
+    },
+    "header": {
+        "about": "About Us",
+        "games": "Games",
+        "partners": "Partners",
+        "contact": "Contact Us"
+    },
+    "banner": {
+        "title": "We’re Getting Ready",
+        "subtitle": "We will back to something amazing. Getting the latest updates about our games. Please sign up to our newsletter.",
+        "email": "Enter your email",
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds"
+    },
+    "about": {
+        "title": "About Us",
+        "subtitle": "Browse our selection of free online games and have a great time without leaving the site! Our Kids Games option also includes game reviews, extensive game cheats and walkthroughs, and much more. We have exclusive free downloads, videos, and articles as well. Etech reviews the most popular kids games from all the most popular video gaming platforms, so you don’t need to search around for fun anywhere else on the Internet. Explore a whole new world of gaming on Etech.",
+        "users": "Users",
+        "games": "Games",
+        "feature1": {
+            "title": "24 - Hour",
+            "subtitle": "24/7 access ensures operators' businesses runs smoothly all year long."
+        },
+        "feature2": {
+            "title": "Design",
+            "subtitle": "Combining imaginative universes, play dynamics, and unprecedented gameplay, our games transcend the boundaries of the virtual world by weaving innovative gameplay."
+        },
+        "feature3": {
+            "title": "Team",
+            "subtitle": "Etech is an award-winning, international studio of designers, artists, animators and producers that create content for the biggest names in film and video games. "
+        }
+    },
+    "games": {
+        "title": "Our Games",
+        "subtitle": "As a pioneer of mobile app gamification, we take pride in originality and individuality, providing global players with state-of-the-art games that feature splendid storylines, sensational sound effects and magnificent animation that never cease to impress.",
+        "des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "game1": {
+            "title": "E-Space"
+        },
+        "game2": {
+            "title": "Kingland"
+        },
+        "game3": {
+            "title": "The Last game"
+        },
+        "game4": {
+            "title": "G-Dragon"
+        },
+        "game5": {
+            "title": "Pirates"
+        },
+        "game6": {
+            "title": "Witch Party"
+        },
+        "game7": {
+            "title": "Rocky"
+        },
+        "game8": {
+            "title": "Blue Fire"
+        },
+        "game9": {
+            "title": "Magic tree"
+        },
+        "game10": {
+            "title": "Aborigines"
+        },
+        "game11": {
+            "title": "Cinderella"
+        },
+        "game12": {
+            "title": "Egypt Game"
+        }
+    },
+    "partner": {
+        "title": "Our Partners"
+    },
+    "footer": {
+        "address": "Address",
+        "location1": "Valletta Buildings, South Street, Valletta - VLT 1103 Malta, US",
+        "location2": "20 Phan Dang Luu street, Hai Chau District, Danang city, Vietnam",
+        "or": "or",
+        "subcribe": "Subscribe",
+        "des": "Subscribe to our newsletter and be the first to know about our updates",
+        "copy": "2017 Copyright. Policy."
+    }
+}
