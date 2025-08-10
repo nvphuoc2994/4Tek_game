@@ -13,7 +13,7 @@ const modules = [Navigation];
             <h3 class="text-[40px] xl:text-[60px] font-bold leading-none font-playfair text-center">{{ $translate('partner.title') }}
             </h3>
             <div class="mt-10 max-xl:-mx-4 xl:mt-20 relative">
-                <Swiper loop :modules="modules" :slides-per-view="3" :centered-slides="true" :space-between="12" :breakpoints="{
+                <Swiper loop :modules="modules" :slides-per-view="3" :space-between="12" :breakpoints="{
                     640: {
                         slidesPerView: 3,
                         spaceBetween: 20,
