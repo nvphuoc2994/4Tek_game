@@ -4,7 +4,7 @@
         <img :src="image" :alt="title" class="w-full h-full object-cover" />
         <div
             class="p-2 xl:px-8 xl:py-10 absolute bottom-0 left-0 h-full w-full z-10 text-white gap-1 xl:gap-4 bg-gradient-to-t from-[#0007e03b] to-transparent flex flex-col justify-end">
-            <h3 class="text-xl xl:text-[48px] leading-none !font-montserrat font-bold xl:mb-2">{{ title }}</h3>
+            <h3 class="text-xl xl:text-[48px] leading-none !font-montserrat font-bold xl:mb-2 break-words">{{ title }}</h3>
             <p class="text-sm font-montserrat">{{ description }}</p>
         </div>
     </div>

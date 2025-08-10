@@ -12,6 +12,8 @@ import game9 from '@/assets/game9.jpg';
 import game10 from '@/assets/game10.jpg';
 import game11 from '@/assets/game11.jpg';
 import game12 from '@/assets/game12.jpg';
+import HeadTitle from './HeadTitle.vue';
+import GameCard from './GameCard.vue';
 const i18n = inject('i18n');
 const language = computed(() => i18n.getLocale());
 const games = computed(() => ([
